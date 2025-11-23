@@ -1,4 +1,4 @@
-# K-vov — Variable Object Validation DSL
+# K-vov — Kotlin Variable Object Validation DSL
 
 K-vov is a lightweight, declarative validation DSL for Kotlin.
 It allows you to build expressive, type-safe validation logic for strings, numbers, and collections with clean, readable syntax.
