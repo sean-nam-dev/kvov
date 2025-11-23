@@ -22,7 +22,7 @@ repositories {
 //build.gradle.kts
 
 dependencies {
-    implementation("com.github.sean-nam-dev:kvov:$version")
+    implementation("com.github.sean-nam-dev:kvov:1.0.0")
 }
 ```
 
